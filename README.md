@@ -11,4 +11,4 @@
 5.SOLab_Training.tex為Latex寫法
 
 # 執行方法
-下載四個matlab檔案並執行main.m可得最佳化結果
+下載所有matlab檔案並執行main.m即可得最佳化結果
