@@ -4,7 +4,7 @@
 
 2.obj.m及nonlcon.m為副程式
 
-3.TenBarTruss.m為有限元素法分析程式
+3.sol_TenBarTruss.m為有限元素法分析程式
 
 4.SOLab_Training.pdf為作業書面報告pdf檔
 
