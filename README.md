@@ -7,7 +7,7 @@
 
 4.Ten_Bar_Truss_Optimization.pdf為作業書面報告
 
-5.Ten_Bar_Truss_Optimization.tex為Latex寫法
+5.Ten_Bar_Truss_Optimization.tex為LaTex寫法
 
 # 如何執行
 下載四個matlab檔案並執行main.m即可取得最佳化結果
